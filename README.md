@@ -8,11 +8,12 @@ Beta1 for version 1.0 is out!!! It has some it changes the hardware connections 
  
 #Connections
  
-!(http://farm5.static.flickr.com/4087/5225072558_5f5f760037.jpg)
+![circuit](http://farm5.static.flickr.com/4087/5225072558_5f5f760037.jpg)
  
 SYNC is on _OCR1A_ and AUDIO is on _OC2A_
+
 |MCU          |SYNC|VIDEO|AUDIO|Arduino        |SYNC|VIDEO  |AUDIO|
-|-------------|----|-----|-----|---------------|----|-------|-----|
+|:------------|:---|:----|:----|:--------------|:---|:------|:----|
 |m168,m328    |B 1 |D 7  |B 3  |NG,Decimila,UNO|9   |7      |11   |
 |m1280,m2560  |B 5 |A 7  |B 4  |Mega           |11  |A7(D29)|10   |
 |m644,m1284p\*|D 5 |A 7  |D 7  |sanguino       |13  |A7(D24)|8    |
@@ -31,10 +32,6 @@ nootropic design is selling a stand alone arduino compatible board the
 
 Very simple as they may be. 
 
-<iframe width="425" height="344" frameborder="0"
- src="https://www.youtube.com/embed/MEg_V4YZDh0">
-</iframe>
- 
-<iframe width="425" height="344" frameborder="0"
- src="https://www.youtube.com/embed/bHpFv_x_8Kk">
-</iframe>
+[![TVout 1.0 Beta1 Demo - YouTube](http://img.youtube.com/vi/MEg_V4YZDh0/0.jpg)](https://youtu.be/MEg_V4YZDh0)
+
+[![Arduino Tetris - YouTube](http://img.youtube.com/vi/bHpFv_x_8Kk/0.jpg)](https://youtu.be/bHpFv_x_8Kk)
